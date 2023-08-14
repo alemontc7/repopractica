@@ -1,0 +1,7 @@
+git init
+git status
+git add . -- aniade a un espacio temporal stage antes del commit
+git commit -m algo
+git log
+git checkout identificador ---> version anterior
+git checkout master --> version mas reciente
